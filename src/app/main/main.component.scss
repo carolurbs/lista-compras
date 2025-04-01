@@ -70,6 +70,14 @@
 
                     }
                 }
+                span{
+                    transition: color 0.3s ease, text-decoration-color 0.3s ease;
+
+
+                }
+                .purchased-item{
+                    text-decoration: line-through;                   
+                }
             }
         }
     }
